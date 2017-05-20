@@ -1,5 +1,5 @@
-# Generate Bitcoin Addresses w/ QR Codes (Python)
-Just a project more for myself to refer back to when working on future Bitcoin projects. Generates BTC addresses and their corresponding QR Codes.
+# Generate Bitcoin Addresses (Python)
+Just a project more for myself to refer back to when working on future Bitcoin projects. Generates BTC addresses.
 
 # Setup
 *To Run:*
