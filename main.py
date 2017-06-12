@@ -5,7 +5,7 @@ import random
 import string
 from bitcoin import *
 
-rand_str = lambda n: ''.join([random.choice(string.lowercase) for i in xrange(n)])
+rand_str = lambda n: ''.join([random.choice(string.ascii_lowercase) for i in range(n)])
 filename = rand_str(10) + '.html'
 br = '<br>'
 
